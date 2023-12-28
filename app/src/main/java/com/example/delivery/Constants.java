@@ -12,13 +12,9 @@ public class Constants {
     public static final String BASE_URL = "https://sandbox.safaricom.co.ke/";
 
 
-//    public static final String DARAJA_CONSUMER_KEY="eI2IqGndaKz0kFCo6VJTa9LjLUZQxBaY";
-//    public static final String DARAJA_CONSUMER_SECRET="m36zh2ESTJ2X1aty";
-
     public static final String BUSINESS_SHORT_CODE = "174379";
-//    public static final String PASSKEY = "MTc0Mzc5YmZiMjc5TliZGJjZjE1OGU5N2RkNzFhNDY3Y2QyZTBjODkzMDU5YjEwZjc4ZTZiNzJhZGExZWQyYzkxOTIwMTYwMjE2MTY1NjI3"; // GENERATED PASSWORD
     public static final String TRANSACTION_TYPE = "CustomerPayBillOnline";
-    public static final String PASSKEY = "bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919"; //original passkey
+    public static final String PASSKEY = ""; //original passkey
     public static final String PARTYB = "600000"; //same as business shortcode above
     public static final String CALLBACKURL = "https://sandbox.safaricom.co.ke/mpesa/b2c/v1/paymentrequest";
 

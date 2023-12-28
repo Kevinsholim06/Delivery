@@ -75,7 +75,7 @@
 //
 //            DataModal dataModal = new DataModal(phone, Data.total, accountNo );
 //            String acceptHeader = "application/json";
-//            String apikey = "UILUeVO6GBD";
+//            String apikey = "";
 //            Call<DataModal> call = service.createPost(apikey,acceptHeader,dataModal);
 //
 //            call.enqueue(new Callback<DataModal>() {
@@ -151,10 +151,10 @@
 ////                        con.setDoOutput(true);
 ////                        String jsonInputString = "{" +
 ////                                "\"amount\": 10," +
-////                                "\"number\": 254748875966," +
-////                                "\"private_key\": \"baa5ed50-0fa9-4445-b6de-f61150ddc638\"," +
+////                                "\"number\": 25******," +
+////                                "\"private_key\": \"*****"," +
 ////                                "\"HEADERS\": {" +
-////                                "\"Authorization\":\"USsx32xnGiUX5kfVTgrZN\"" +
+////                                "\"Authorization\":\"********\"" +
 ////                                "}" +
 ////                                "}";
 ////                        try(OutputStream os = con.getOutputStream()) {
